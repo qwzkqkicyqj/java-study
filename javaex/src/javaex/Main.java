@@ -1,5 +1,6 @@
 package javaex;
 
+
 public class Main {
 	public static void main(String[] args) {
 		System.out.println("초기 정보");
@@ -13,5 +14,7 @@ public class Main {
 		e.setPay(5000000);
 		System.out.println("수정 정보");
 		e.print();
+		
+		
 	}
 }
